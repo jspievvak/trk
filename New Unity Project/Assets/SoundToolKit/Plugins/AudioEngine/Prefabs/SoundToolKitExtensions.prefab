@@ -102,8 +102,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71401ff0d5fcc443a2d3fa7c3c2d966, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_renderAcousticMeshes: 1
+  m_renderAcousticMeshes: 0
   m_hideVisualMeshes: 0
+  m_meshClusterCount: 0
+  m_meshCount: 0
+  m_triangleCount: 0
 --- !u!1 &1668581263066022
 GameObject:
   m_ObjectHideFlags: 0
